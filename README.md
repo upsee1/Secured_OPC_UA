@@ -9,5 +9,6 @@ Python Code : OPC_UA_Client_nonsecured
 ///////////////////////////////////////////////////////////////////////////////////
 
 Establishing a secured OPC UA communication between : S7 PLC serving as the OPC UA server and with a Python developed script. https://www.youtube.com/watch?v=Sb-7IBlDg5I
-Python Code:
-OPC_UA_Client_secured
+
+
+Python Code: OPC_UA_Client_secured
